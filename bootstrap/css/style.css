@@ -1,0 +1,21 @@
+/* Your custom styles */
+.carousel .carousel-indicators li {
+    max-width: 30px;
+    height: 5px;
+    border-radius: 0% !important;
+    cursor: pointer;
+}
+.text-teal{
+    color:teal;
+}
+.my-card:hover{
+    background: teal;
+    color: white;
+}
+.my-icon:hover{
+background: teal;
+color: white;
+}
+.mytext-area{
+    height: 150px;
+}
